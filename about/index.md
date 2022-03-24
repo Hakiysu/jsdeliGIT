@@ -38,9 +38,10 @@ DuangDuangDuang(纵连确认按钮)
 
 {% collapse Play WHAT??? %}
 
- ![](https://i1.hdslb.com/bfs/face/29fb8f7bfe1e6a4ba6fc79369eafc0f48df92f6f.jpg@140w_140h_1c_1s.webp) 
- ![](https://webstatic.mihoyo.com/upload/op-public/2021/10/09/def1f2abcfc2af0bbe2e5900a60a5ee1_5699547505742166353.png)
- ![](https://webstatic.mihoyo.com/upload/op-public/2021/10/03/4080f2eb748823d8c38507c3d7b69b36_936817768851375073.png) 
- ![](https://imgsa.baidu.com/forum/pic/item/b17eca8065380cd7e19e7c64af44ad34588281b3.jpg)
+<img src="https://img.moegirl.org.cn/common/9/92/Maimai_DXLogo.png">
+<img src="https://webstatic.mihoyo.com/upload/op-public/2021/10/09/def1f2abcfc2af0bbe2e5900a60a5ee1_5699547505742166353.png" width=140 height=140 />
+<img src="https://webstatic.mihoyo.com/upload/op-public/2021/10/03/4080f2eb748823d8c38507c3d7b69b36_936817768851375073.png" width=140 height=140 />
+<img src="https://imgsa.baidu.com/forum/pic/item/b17eca8065380cd7e19e7c64af44ad34588281b3.jpg" width=140 height=140 />
+<img src="https://user-assets.sxlcdn.com/images/64283/FvShbiHpgXCpevsuQm4nZxkM5-yb.png" width=140 height=140 />
 
  {% endcollapse %}
