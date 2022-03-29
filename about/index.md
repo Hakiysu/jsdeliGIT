@@ -2,7 +2,7 @@
 title: "who am i?"
 date: 2022-02-28 00:22:37
 ---
-舞萌DX！！（震声）
+舞萌DX！！(震声)
 
 蹬蹬噔~要开始了哟！
 
@@ -12,7 +12,7 @@ date: 2022-02-28 00:22:37
 
 DuangDuangDuang(纵连确认按钮)
 
-请不要大力拍打或滑动哟（字正腔圆）
+请不要大力拍打或滑动哟(字正腔圆)
 
 啪啪啪(超大声45号键交互)
 
@@ -28,13 +28,13 @@ DuangDuangDuang(纵连确认按钮)
 - UNKNOWN
 
 # 本站概况
-- 评论系统：Waline(Vercel+LeanCloud)
+- 评论系统:Waline(Vercel+LeanCloud)
 
-- 博客主体：hexo
+- 博客主体:hexo
 
-- 服务器：GitHubPages
+- 服务器:GitHubPages
 
-- CDN加速：jsdelivr+unpkg
+- CDN加速:jsdelivr+unpkg
 
 {% collapse Play WHAT??? %}
 
